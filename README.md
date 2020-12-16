@@ -1,2 +1,1 @@
-# tindog
-It is a  dating template for dog
+TinDog Starting Files
